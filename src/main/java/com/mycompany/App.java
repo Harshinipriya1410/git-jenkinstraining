@@ -10,4 +10,9 @@ public class App
     {
         System.out.println( "Hello World!-This is harshini" );
     }
+    void display ()
+    {
+        System.out.println( "Hello World!-This is harshini" );
+    }
+    
 }
